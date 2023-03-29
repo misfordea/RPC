@@ -1,5 +1,3 @@
-README
-
 How to run:
 To run this program, first put the following files in the server directory:
 BUILDSERVER, RUNSERVER, communication.h, communication.cc, connection.h, connection.cc, serverfilesystem.h, serverfilesystem.cc, driverserver.cc, and test.txt
